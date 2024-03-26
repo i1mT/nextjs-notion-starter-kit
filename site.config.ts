@@ -17,7 +17,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "iimT's Blog",
+  name: "日光倾城",
   domain: 'https://iimt.notion.site/Blog-0700998eb9004eb197ffb993c7bbf2e9',
   author: 'iimT',
 
@@ -25,7 +25,7 @@ export default siteConfig({
   description: 'Technology sharing & Digital knowledge base.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: '',
   github: 'i1mT',
   linkedin: '#',
   // newsletter: '#', // optional newsletter URL
